@@ -65,13 +65,13 @@ XGBoost performed better with an R² score of 88.09%, meaning it explains a larg
 
 ## Challenges Faced & Solutions
 1. Complex Data Merging
-Solution: Resolved duplicate IDs and inconsistent mappings by ensuring unique keys.
+- Solution: Resolved duplicate IDs and inconsistent mappings by ensuring unique keys.
 
 2. Parsing DateTime Errors
-Solution: Standardized date formats and handled time inconsistencies.
+- Solution: Standardized date formats and handled time inconsistencies.
 
 3. Feature Selection Confusion
-Solution: Used correlation analysis and feature importance techniques.
+- Solution: Used correlation analysis and feature importance techniques.
 
 
 # Future Improvements

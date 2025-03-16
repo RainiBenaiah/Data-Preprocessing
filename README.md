@@ -3,17 +3,17 @@ This project focuses on predicting customer spending behavior based on transacti
 
 # Project Structure
 data_preprocessing
- ┣ datasets
-     ┣ copy_1.csv
-     ┣ copy_2.csv        
-     ┣ customer_transactions_augmented.csv
-     ┣ final_customer_data_pld14.csv    
-     ┗ final_dataset_ready_pld14.csv
-  ┗ datapreprocessing_1.ipynb
+datasets
+┣ copy_1.csv
+┣ copy_2.csv        
+┣ customer_transactions_augmented.csv
+┣ final_customer_data_pld14.csv    
+┗ final_dataset_ready_pld14.csv
+┗ datapreprocessing_1.ipynb
 models
- ┣  best_customer_spending_model.pkl                    
- ┣  customer_spending_prediction.ipynb                                                
- ┗  sample_predictions.csv           
+┣  best_customer_spending_model.pkl                    
+┣  customer_spending_prediction.ipynb                                                
+┗  sample_predictions.csv           
 README.md
 
 

@@ -81,5 +81,6 @@ XGBoost performed better with an R² score of 88.09%, meaning it explains a larg
 
 
 # Link to Report
+[Data Preprocessing Report](https://docs.google.com/document/d/1nOwQPE0WFOp73YROdDdCWZBSbmxgCFfcGzkQdxGzpNo/edit?usp=sharing)
 
 # Link to Demo Video
